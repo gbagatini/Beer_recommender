@@ -10,9 +10,17 @@ Wow, that’s quite a lot… According to the beer industry Canada, on average, 
 Knowing that we don’t have that time to try all the beers and find our favourite one, I have decided to build a Beer Recommender System :)
 
 Please find my findings in the notebooks:
+
 Beer_EDA – data cleaning and preparation for modelling
+
 SVD_model – the first model that I decided to try- matrix factorization using Surprise library
+
 Final_deep_learning – the model that I used to recommend beers to existent  users and also for the cold start
 
-I hope you enjoy it! Feedback is always welcome!
+I hope you enjoy it :)
+Feedback is always welcome!
+
 Feel free to connect with me:
+https://www.linkedin.com/in/giselle-bagatini/
+Thank you!
+Cheers!
