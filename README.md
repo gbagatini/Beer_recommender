@@ -1,6 +1,7 @@
 # Beer_recommender
 
-![Image of NYC](beer_image.png)
+![Test Image 1](beer_image.png)
+
 
 ### What to drink next?
 
