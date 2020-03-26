@@ -18,9 +18,13 @@ SVD_model – the first model that I decided to try- matrix factorization using 
 Final_deep_learning – the model that I used to recommend beers to existent  users and also for the cold start
 
 I hope you enjoy it :)
+
 Feedback is always welcome!
 
 Feel free to connect with me:
+
 https://www.linkedin.com/in/giselle-bagatini/
+
 Thank you!
+
 Cheers!
