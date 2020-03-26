@@ -1,5 +1,7 @@
 # Beer_recommender
 
+![Image of NYC](beer_image.png)
+
 ### What to drink next?
 
 Once I moved to BC, I was overwhelmed by the number of beer brands available. I have always been a beer enthusiast and love to try new beers, but it was so hard to keep it up with the innovations. When I started my Data Science journey, I decided that I wanted to investigate more.
