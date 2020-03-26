@@ -1,4 +1,4 @@
-# Beer_recommender
+# Beer Recommender System
 
 ![Test Image 1](beer_image.png)
 
@@ -12,21 +12,35 @@ There is no right answer to the number of beers available worldwide, but there i
 Wow, that’s quite a lot… According to the beer industry Canada, on average, we drink around 200 cans per year!! It would take us almost 5,000 years to try all the beers available!
 Knowing that we don’t have that time to try all the beers and find our favourite one, I have decided to build a Beer Recommender System :)
 
-Please find my findings in the notebooks:
 
-Beer_EDA – data cleaning and preparation for modelling
+## Tools and Packages that I used for this project:
 
-SVD_model – the first model that I decided to try- matrix factorization using Surprise library
 
-Final_deep_learning – the model that I used to recommend beers to existent  users and also for the cold start
+#### Web Scraping:
+* Scrapy
+* requests
 
-I hope you enjoy it :)
+#### Feature Engineering:
+* Natural language processing
+* TFIDF
+
+#### Modeling/Machine Learning
+
+* Scikit-learn
+* Tensor Flow/ Keras
+* Numpy
+* Pandas
+* Surprise
+
+#### Data visualization:
+* Matplotlib
+* Seaborn
+* Dash/Plotly
+* Google Embedding Projector - TSNE and PCA visualization
+
 
 Feedback is always welcome!
 
-Feel free to connect with me:
-
-https://www.linkedin.com/in/giselle-bagatini/
 
 Thank you!
 
