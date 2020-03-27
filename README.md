@@ -1,6 +1,6 @@
 # Beer Recommender System
 
-![Test Image 1](beer_image.png)
+![Test Image 2](beer_2.jpg)
 
 
 ## What to drink next?
@@ -37,6 +37,9 @@ Knowing that we don’t have that time to try all the beers and find our favouri
 * Seaborn
 * Dash/Plotly
 * Google Embedding Projector - TSNE and PCA visualization
+
+
+![Test Image 1](beer_image.png)
 
 
 Feedback is always welcome!
