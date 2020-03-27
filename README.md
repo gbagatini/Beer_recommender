@@ -42,9 +42,7 @@ Knowing that we don’t have that time to try all the beers and find our favouri
 ![Test Image 1](beer_image.png)
 
 
-Feedback is always welcome!
+Feedback is always welcome :)
 
-
-Thank you!
 
 Cheers!
