@@ -1,6 +1,6 @@
 # Beer Recommender System
 
-![Test Image 2](beer_2.jpg)
+![Test Image 2](beer_3.jpg)
 
 
 ## What to drink next?
