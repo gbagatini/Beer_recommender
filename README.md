@@ -10,7 +10,9 @@ After some research, I found out that, according to Beer Advocate, there are mor
 
 The primary goal of my project was to create an engine that would learn from data about the beers, existing users and recommend beers to those users based on their preferences. I used a neural network model for that. 
 The second goal was to be able to learn about the beers and its features to recommend to new users (cold start). To handle the cold start problem, I used the embeddings from the NN model, where each beer now is represented by a 50-dimensional vector. After normalizing the embeddings, the dot product between two embeddings becomes the cosine similarity. Using this technique, I was able to find the similarity between 2 beers.  I have also decided to use only BC Local Beers for that task to be able to recommend beers that are available in our region. 
+
 Feel free to get beer recommendations here: https://recommender-beer.herokuapp.com/
+Pick one of your favorite beers and check the beers the engine recommends :)
 
 
 
